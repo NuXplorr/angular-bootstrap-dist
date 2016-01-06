@@ -1,0 +1,9 @@
+{
+	"name": "angular-bootstrap-dist",
+	"main": [
+	  "ui-bootstrap-tpls.js"
+	],
+	"ignore": [
+		"package.json"
+	]
+}
